@@ -145,7 +145,7 @@ This project is developed for learning and portfolio purposes.
 
 ### Dashboard
 
-![Dashboard](./screenshots/home.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Orders
 
@@ -153,6 +153,4 @@ This project is developed for learning and portfolio purposes.
 
 ### Responsive View
 
-![Mobile](./screenshots/contact.png)
-
-
+![Mobile](./screenshots/mobile.png)
