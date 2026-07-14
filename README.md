@@ -4,10 +4,9 @@ A modern and responsive **Cafe Order Dashboard** built using **React, TypeScript
 
 ---
 
-🚀 Live Demo
+🔗 ## 🚀 Live Demo
 
-🔗 **Coming Soon** *(Will be updated after Vercel deployment.)*
-
+🔗 **Live Website:** https://cafe-order-dashboard-sk07-9rdohrww9-suryanshkumar07s-projects.vercel.app/
 ---
 
 📸 Project Preview
@@ -141,3 +140,19 @@ This project is developed for learning and portfolio purposes.
 ---
 
 ⭐ If you like this project, don't forget to **Star** the repository!
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](./screenshots/home.png)
+
+### Orders
+
+![Orders](./screenshots/orders.png)
+
+### Responsive View
+
+![Mobile](./screenshots/contact.png)
+
+
